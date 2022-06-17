@@ -280,7 +280,7 @@ We will follow test-driven development practices while completing this project. 
 
 
 ## **Request for Feedback**
-We'd like to get some feedback on whether we made the appropriate assumptions in [this](#1.2-gaps-and-assumptions) section, and appreciate more comments, updates , and suggestions on the topic.
+We'd like to get some feedback on whether we made the appropriate assumptions in [this](###1.2-gaps-and-assumptions) section, and appreciate more comments, updates , and suggestions on the topic.
 
 Please let us know if there are any revisions, technical or informational, necessary for this document. Thank you!
 
