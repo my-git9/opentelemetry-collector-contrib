@@ -1,6 +1,7 @@
 module github.com/open-telemetry/opentelemetry-collector-contrib/pkg/translator/zipkin
 
 go 1.17
+toolchain go1.24.1
 
 require (
 	github.com/census-instrumentation/opencensus-proto v0.3.0
@@ -12,7 +13,7 @@ require (
 	github.com/stretchr/testify v1.8.0
 	go.opentelemetry.io/collector/pdata v0.56.0
 	go.opentelemetry.io/collector/semconv v0.56.0
-	google.golang.org/protobuf v1.28.0
+	google.golang.org/protobuf v1.36.6
 
 )
 
