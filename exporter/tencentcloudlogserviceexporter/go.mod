@@ -1,6 +1,7 @@
 module github.com/open-telemetry/opentelemetry-collector-contrib/exporter/tencentcloudlogserviceexporter
 
 go 1.17
+toolchain go1.24.1
 
 require (
 	github.com/pierrec/lz4 v2.6.1+incompatible
@@ -13,7 +14,7 @@ require (
 require (
 	go.opentelemetry.io/collector/pdata v0.56.0
 	go.opentelemetry.io/collector/semconv v0.56.0
-	google.golang.org/protobuf v1.28.0
+	google.golang.org/protobuf v1.36.6
 )
 
 require (
