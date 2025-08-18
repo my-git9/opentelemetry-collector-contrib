@@ -14,7 +14,7 @@
 
 module github.com/open-telemetry/opentelemetry-collector-contrib/receiver/solacereceiver
 
-go 1.17
+go 1.22
 
 require (
 	github.com/Azure/go-amqp v0.17.5
@@ -24,7 +24,7 @@ require (
 	go.opentelemetry.io/collector/pdata v0.56.0
 	go.uber.org/atomic v1.9.0
 	go.uber.org/zap v1.21.0
-	google.golang.org/protobuf v1.28.0
+	google.golang.org/protobuf v1.36.7
 )
 
 require (
